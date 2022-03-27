@@ -1,0 +1,26 @@
+
+//Name:           SADDAM FAISAL
+// Student Number: 118406198
+// Email:          sfaisal6@myseneca.ca
+// Date:           08/07/2020
+
+
+I learned from this work shop The copy counstructor that the main purpose of use it 
+
+in our project and others to initiize  object with another object of the same type 
+
+We must to use it when we have class with dynamic memory allocation because that 
+
+will help us to reduce rewrittting and improve reusability .The parameters of the copy 
+
+counstructor have to pass by refrence because  the copying will not happen if we pass
+
+by value and the compiler will generat error in case passing by value .ALso, I learned the 
+
+copy assignment operator is similar to copy counstructor in logic .It means assign 
+
+value of object to another both they are excited and does not  require to allocate any memory .
+
+It is anothrer way of copy counstructor . It does self assignment to compare the current object
+
+with the source object.

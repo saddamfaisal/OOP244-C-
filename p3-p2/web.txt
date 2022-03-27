@@ -1,0 +1,32 @@
+Q1
+Infinity is anumeric value that represents positive or negative infinity
+ex:console.log(1/0);
+
+
+
+Q2
+
+
+-parseInt('1010',2 );    
+-parseInt('AF', 16); 
+-parseInt(713, 8);  
+
+
+Q3
+function cTF(cvalue) 
+{
+  var Celsiustemperature= cvalue;
+  var cToFahr = Celsiustemperature * 9 / 5 + 32;
+  var txt = Celsiustemperature+'\xB0C is '+ cToFahr+'\xB0F.';
+    console.log(txt);
+}
+
+function fTC(fvalue) 
+{
+  var  Fahtem = fvalue;
+  var fToCel = (Fahtem - 32) * 5 / 9;
+  var txt = Fahtem+'\xB0F is '+ fToCel+'\xB0C.';
+    console.log(txt);
+} 
+cTF(43);
+fTC(23);

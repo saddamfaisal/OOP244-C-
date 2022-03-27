@@ -1,0 +1,16 @@
+//Name:           SADDAM FAISAL
+// Student Number: 118406198
+// Email:          sfaisal6@myseneca.ca
+// Date:           29/6/2020
+
+What I learned from this project first how to define operator.It is a function with 
+special names when you define operator you have to write the word operator then followed 
+by the sign of the required operator.The main purpose of using because it enables
+your objects to be written in your output as you want .It is kind of unifying  interfaces 
+and the important aim for unifying interfaces is polymorphism.The challeng part of this project 
+was at the function operator (+=)when I allocate temporary dynamic memory and assigne it to the 
+M_engines the siz that one of them one size biger because we add one ,so when you run 
+without delete you got leak .In the end; I learned the keyword this the purpose of use 
+to access the current executing object of class .The role of using counstructur to initialize
+ memory location for the object while destructor to destroy the object.The
+class can have more than one counstructor but one destructor. 

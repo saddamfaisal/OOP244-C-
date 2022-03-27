@@ -1,0 +1,17 @@
+
+Name:           SADDAM FAISAL
+// Student Number: 118406198
+// Email:          sfaisal6@myseneca.ca
+// Date:           7/6/2020
+
+
+I learned from this workshope about the dynamic memory allocation by declaring pointer
+and use the new followed by data type of variable to allocate for variable and followed
+by data type and  square bracket for array .The dynamic memory allocate by the user after
+that we have to delete it to clear the buffer .Then I learned how to declare struct which 
+contain :data member that could be variable from different data types.Also,I learned 
+how to access member of arry of struct.The hard part in the project in the wrap function 
+when we validate the number of layers and the minimum required layers for gift.Then how 
+to choose the pattern.Also ,there is difficult in the unwrap function we have to deallocation 
+for wrap to prevent the leak. 
+

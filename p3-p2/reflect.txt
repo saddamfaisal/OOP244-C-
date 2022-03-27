@@ -1,0 +1,21 @@
+
+
+
+Name:           SADDAM FAISAL
+// Student Number: 118406198
+// Email:          sfaisal6@myseneca.ca
+// Date:           14/6/2020
+
+
+
+
+I learned from this workshop how to define class which contains two types public: 
+that we can access data directly from anywhere outside the class.A private: is 
+variable or function prevents the members of a struct or a class to be accessible by 
+the external functions only could access private by manipulate from function inside the class.
+Also,I learned how to I learned how to allocate dynamic memory and why we need to use delete operator
+ after allocation dynamic memory to prevent any leak .Then I learn how to declare object of class 
+ that help to access data members and member functions in theclass public we access the member function 
+by using the (::)the scope resolutionoperrator.Then I learned hoe to access private member of data by
+ manipulate the friend function or variables inside the class .In the end I learned the standared
+output and libraries that should  be include in each header file and cpp file. 
